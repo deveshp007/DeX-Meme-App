@@ -4,63 +4,16 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity"
-    android:background="#121111">
-
-
-    <TextView
-        android:id="@+id/textView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="9dp"
-        android:fontFamily="casual"
-        android:text="@string/dex_memes"
-        android:textAlignment="center"
-        android:textColor="#EAE0E0"
-        android:textSize="20sp"
-        android:textStyle="bold"
-        app:layout_constraintBottom_toTopOf="@+id/memeImageView"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.528"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+    android:background="#07010B"
+    tools:context=".MainActivity">
 
     <ImageView
-        android:id="@+id/memeImageView"
-        android:layout_width="0dp"
-        android:layout_height="0dp"
-        android:layout_marginTop="40dp"
-        app:layout_constraintBottom_toTopOf="@id/nextButton"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        tools:srcCompat="@tools:sample/avatars" />
-
-    <ProgressBar
-        android:id="@+id/progressBar"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        app:layout_constraintTop_toTopOf="@id/memeImageView"
-        app:layout_constraintBottom_toBottomOf="@id/memeImageView"
-        app:layout_constraintRight_toRightOf="@id/memeImageView"
-        app:layout_constraintLeft_toLeftOf="@id/memeImageView" />
-
-
-    <Button
-        android:id="@+id/nextButton"
-        android:layout_width="0dp"
-        android:layout_height="wrap_content"
-        android:onClick="nextMeme"
-        android:padding="32dp"
-        android:text="@string/next"
-        android:textSize="20sp"
-        android:textStyle="bold"
+        android:id="@+id/imageView"
+        android:layout_width="278dp"
+        android:layout_height="458dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:rippleColor="#EBE1E1"
-        tools:ignore="UsingOnClickInXml" />
-
-
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/svgviewer_png_output" />
 </androidx.constraintlayout.widget.ConstraintLayout>
