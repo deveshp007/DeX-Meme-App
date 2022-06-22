@@ -4,7 +4,7 @@ A small demo application based on modern Android application tech-stacks, shows 
 </p>
 <br>
 <p align="center">
-<img src="/Images/preview.png"/>
+<img src="/images/preview.png"/>
 </p>
 
 ## API 
