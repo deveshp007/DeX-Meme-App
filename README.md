@@ -14,7 +14,9 @@ For API repositiory [Click Me!](https://github.com/D3vd/Meme_Api)
 
 ## Download
 
-Go to the [Releases](https://github.com/deveshp007/DeX-Meme-App/releases/tag/Download-APK) to download the latest APK.
+Go to the [Releases](https://github.com/deveshp007/DeX-Meme-App/releases/tag/Download-APK) to download the zip.
+
+for downloading APK click [Download](https://github.com/deveshp007/DeX-Meme-App/releases/download/Download-APK/app-debug.apk)
 
 ## Tech stack
 
