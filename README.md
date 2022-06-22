@@ -3,6 +3,9 @@
 A small demo application based on modern Android application tech-stacks, shows random meme by using random meme API.
 </p>
 <br>
+<p align="center">
+<img src="/Images/preview.png"/>
+</p>
 
 ## API 
 
