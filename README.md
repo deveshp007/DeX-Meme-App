@@ -3,7 +3,10 @@
 A small demo application based on modern Android application tech-stacks, shows random meme by using random meme API.
 </p>
 <br>
-for API repositiory Link:[Click Here](https://github.com/D3vd/Meme_Api) 
+
+## API 
+
+API repositiory [Here](https://github.com/D3vd/Meme_Api) 
 
 ## Download
 
