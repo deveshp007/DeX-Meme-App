@@ -10,7 +10,7 @@ A small demo application based on modern Android application tech-stacks, shows 
 
 ## API 
 
-For API repositiory [Click Me!](https://github.com/D3vd/Meme_Api) 
+For API repository [Click Me!](https://github.com/D3vd/Meme_Api) 
 
 ## Download
 
