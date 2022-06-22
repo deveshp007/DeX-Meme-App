@@ -6,6 +6,7 @@ A small demo application based on modern Android application tech-stacks, shows 
 <p align="center">
 <img src="/images/preview.png"/>
 </p>
+<br>
 
 ## API 
 
