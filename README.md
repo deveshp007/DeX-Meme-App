@@ -6,7 +6,7 @@ A small demo application based on modern Android application tech-stacks, shows 
 
 ## API 
 
-API repositiory [Here](https://github.com/D3vd/Meme_Api) 
+For API repositiory [Click Me!](https://github.com/D3vd/Meme_Api) 
 
 ## Download
 
