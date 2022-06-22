@@ -22,6 +22,6 @@ class MainActivity : AppCompatActivity() {
             val intent = Intent(this@MainActivity, Dashboard::class.java)
             startActivity(intent)
             finish()
-        },4000)
+        },2000)
     }
 }

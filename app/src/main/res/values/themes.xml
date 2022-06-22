@@ -2,8 +2,8 @@
     <!-- Base application theme. -->
     <style name="Theme.DeXMeme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <!-- Primary brand color. -->
-        <item name="colorPrimary">#2D2C2C</item>
-        <item name="colorPrimaryVariant">#1E1D20</item>
+        <item name="colorPrimary">#000000</item>
+        <item name="colorPrimaryVariant">#000000</item>
         <item name="colorOnPrimary">@color/white</item>
         <!-- Secondary brand color. -->
         <item name="colorSecondary">@color/teal_200</item>
