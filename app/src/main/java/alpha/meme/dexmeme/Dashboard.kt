@@ -43,7 +43,7 @@ class Dashboard : AppCompatActivity() {
     @SuppressLint("SetTextI18n")
     private fun loadMeme() {
         progBar?.visibility = View.VISIBLE
-        val url = "https://meme-api.herokuapp.com/gimme"
+        val url = "https://meme-api.com/gimme"
 
         // API call for Title text +++++++++++++++++++
         // Request title from the URL
